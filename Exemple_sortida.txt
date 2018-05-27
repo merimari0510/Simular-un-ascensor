@@ -1,0 +1,44 @@
+Sortida (exemple suposant capacitat 5, i altres paràmetres no especificats)
+Petició a la planta 23
+Ascensor puja
+Petició a la planta 10
+Ascensor para a la planta 10
+Ascensor obre portes
+Persona puja amb destinació planta 0
+Persona puja amb destinació planta 0
+Persona puja amb destinació planta 1
+Ascensor tanca portes
+Ascensor puja
+Petició a la planta 5
+Ascensor para a la planta 23
+Ascensor obre portes
+Persona puja amb destinació planta 0
+Persona puja amb destinació planta 0
+Ascensor tanca portes
+Ascensor baixa
+Ascensor para a la planta 5
+Ascensor obre portes
+Ascensor tanca portes #No pot pujar ningú perquè l'ascensor està ple
+Ascensor baixa
+Ascensor para a la planta 1
+Ascensor obre portes
+Persona baixa
+Ascensor tanca portes
+Ascensor baixa
+Ascensor para a la planta 0
+Ascensor obre portes
+Persona baixa
+Persona baixa
+Persona baixa
+Persona baixa
+Ascensor tanca portes
+Ascensor puja
+Ascensor para a la planta 5
+Ascensor obre portes
+Persona puja amb destinació planta 0
+Ascensor tanca portes
+Ascensor baixa
+Ascensor para a la planta 0
+Ascensor obre portes
+Persona baixa
+Ascensor tanca portes
